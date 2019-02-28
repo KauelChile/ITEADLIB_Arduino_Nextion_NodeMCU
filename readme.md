@@ -1,5 +1,7 @@
 @mainpage Home Page
 
+Forked version of Nextion library for Arduino, for use with NodeMCU [ITEADLIB_Arduino_Nextion](https://github.com/itead/ITEADLIB_Arduino_Nextion)
+
 # Nextion
 
 --------------------------------------------------------------------------------
